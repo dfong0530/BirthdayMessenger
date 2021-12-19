@@ -5,3 +5,5 @@ This is part two of my project.
 This code sends a request to my birthday API to recieve all the birthday's. It then parses the data and sends me a text message if there are any birthday's.
 
 This notification is sent using the Twilio API.
+
+I plan on using crontab to run this python file.

@@ -6,4 +6,4 @@ This code sends a request to my birthday API to recieve all the birthday's. It t
 
 This notification is sent using the Twilio API.
 
-I plan on using crontab to run this python file.
+This is scheduled to run everyday at 10:00 am EST using crontab.
